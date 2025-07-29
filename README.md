@@ -1,1 +1,1 @@
-This is my learning procedure in Mclab, recently ,im learning SLAM base konwledge about ROS
+This is my learning process in Mclab. Recently, I have been studying the fundamentals of SLAM based on ROS.
